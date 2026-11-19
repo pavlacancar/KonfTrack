@@ -7,7 +7,9 @@
 **Cilj:** Voditi kratak zapis projektnih sastanaka i tjedne koordinacije: tko je sudjelovao, što je odlučeno i koja je radnja uslijedila. Raspravu koja nije dovela do odluke zabilježite samo ako je važno pitanje ostalo otvoreno.
 
 >Definirati prije prve uporabe:
-`[Inicijali/Kratica] = [Ime i prezime]` (npr. *AK = Ana Kovač; LM = Luka Marić; EP = Ema Petrović; NK = Nika Kralj*).																														
+`[Inicijali/Kratica] = [Ime i prezime]` (npr. *AK = Ana Kovač; LM = Luka Marić; EP = Ema Petrović; NK = Nika Kralj*).
+>Inicijali =	Ime i prezime
+*PČ=Pavla Čančar; MŠ	Marta Šimić; GS=Gabrijela Stipić; AP=Antonio Pasarić; KT=Karla Tušek; MH=Mia Hrkać; MLL=Marin Lukas Lončar*																													
 
 | Datum i sudionici | Glavna tema | Donesena odluka ili zadatak  | Poveznica na zadatak ili  rezultat, ako postoji |
 | --- | --- | --- | --- |
